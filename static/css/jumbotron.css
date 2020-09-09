@@ -79,6 +79,13 @@ body {
 -------------------------------------------------- */
 
 /* Carousel base class */
+
+.carousel-credit {
+  font-size: small;
+  color: #6c757d !important;
+  margin: 2rem 10px;
+}
+
 .carousel {
   margin-bottom: 4rem;
 }
