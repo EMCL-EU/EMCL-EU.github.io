@@ -11,5 +11,6 @@ template = "students.html"
 
 
 <div class="container">
-bla bla bla student page
+
+# General information for students
 </div>
