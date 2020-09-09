@@ -24,3 +24,7 @@ Selected (proposed for a scholarship/fellowship, put on the reserve list or enro
 
 
 </div>
+
+{% credit() %}
+Photo: &copy; UG, photographer: Michiel de Groot.
+{% end %}

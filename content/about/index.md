@@ -43,3 +43,7 @@ EMCL++ is offered by
 - Ghent University (BE)
 
 </div>
+
+{% credit() %}
+Photo: &copy; UG, photographer: Michiel de Groot.
+{% end %}
