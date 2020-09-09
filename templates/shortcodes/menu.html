@@ -1,0 +1,11 @@
+<script>
+
+		$("a.active").removeClass("active");
+      function setActive(i) {
+        document.getElementById(i).classList.add("active");
+      }
+     document.addEventListener("DOMContentLoaded", function(){
+          
+          setActive("{{act}}");
+      });
+</script>
