@@ -1,5 +1,5 @@
 +++
-title = "FAQs"
+title = "Student Corner"
 template = "students.html"
 +++
 
@@ -13,4 +13,15 @@ template = "students.html"
 <div class="container">
 
 # General information for students
+
+We need some content here, say something nice about students etc.
+
+You never know what it will be good for...
+Just some more info
+
+This should do for now, I hope!
 </div>
+
+{% credit() %}
+Photo: &copy; UG, photographer: Peter Tahl.
+{% end %}
