@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: ehttp://emcl.eu/sitemap.xml
