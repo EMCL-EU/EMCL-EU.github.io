@@ -47,37 +47,29 @@ In the EMCL++ programme we work with associated partners from academia and indus
 
 # Industry partners
 
-<div class="row">
-<div class="col-6">
 
-### ANT, The Netherlands
-
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1GVmeJuvWA8" allowfullscreen></iframe>
+<div class="card-deck" style="margin-bottom: 2em;">
+	<div class="card" style="width: 90%;">
+		<div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1GVmeJuvWA8/maxresdefault.webp" allowfullscreen></iframe>
+	</div>
+		<div class="card-body">
+			<p class="card-text">ANT, The Netherlands</p>
+		</div>
+	</div>
+	<div class="card" style="width: 90%;">
+		{{ video (src="https://player.vimeo.com/external/336599725.hd.mp4?s=20369a048a1c843274a840c3c2bf989f4e5f6c97&amp;profile_id=175", img="https://altoida.com/wp-content/uploads/2019/04/videoPosterCTP1.svg") }}
+		<div class="card-body">
+			<p class="card-text">Altoida, Switzerland</p>
+		</div>
+	</div>
+	<div class="card" style="width: 90%;">
+		<img class="card-img-top" src="/img/partners/eemagine.png" alt="eemagine">
+		<div class="card-body">
+			<p class="card-text">eemagine Medical Imaging Solutions, Germany</p>
+		</div>
+	</div>
 </div>
-
-</div>
-<div class="col-6" style="margin-bottom: 20px">
-
-### Altoida, Switzerland
-
-{{ video (src="https://player.vimeo.com/external/336599725.hd.mp4?s=20369a048a1c843274a840c3c2bf989f4e5f6c97&amp;profile_id=175", img="https://altoida.com/wp-content/uploads/2019/04/videoPosterCTP1.svg") }}
-
-
-</div>
-</div>
-
-<div class="row">
-	<div class="col-4">
-
-### eemagine Medical Imaging Solutions, Germany
-</div>
-<div class="col-4">
-</div>
-<div class="col-4">
-</div>
-</div>
-
 
 
 </div>
