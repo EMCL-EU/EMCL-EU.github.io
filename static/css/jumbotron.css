@@ -6,13 +6,18 @@
 }
 
 /*text colors*/
-.nav-link:hover, .nav-link:focus, .dropdown-item:hover, .dropdown-item:focus{
+.nav-link:hover, .nav-link:focus, .dropdown-item:hover, .dropdown-item:focus, .mb-0{
   color: #006d77;
   /*color: #7c316c;*/
 }
 
+.btn-link, .btn-link:hover{
+  border-width: 0;
+  background-color: transparent;
+  color: #000;
+}
 
-.btn, .btn:hover{
+.btn, .btn:hover {
   border-color: #006d77;
   /*border-color: #7c316c;*/
 }
@@ -74,6 +79,22 @@ body {
   border-top-right-radius: calc(0.25rem - 1px);
   margin-top: 5px;
 }
+
+[data-toggle="collapse"].collapsed .if-not-collapsed {
+  display: none;
+}
+[data-toggle="collapse"]:not(.collapsed) .if-collapsed {
+  display: none;
+}
+
+/*.faq[aria-expanded="false"]:before{
+  content:"\005E";
+  align-self: right;
+}
+
+.faq[aria-expanded="true"]:before{
+  content:"[ View Less ]";
+}*/
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
