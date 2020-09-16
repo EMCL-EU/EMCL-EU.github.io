@@ -1,4 +1,8 @@
+:root {
 
+  --font-family-sans-serif: Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  
+}
 /*background colors*/
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link, .btn, .btn:hover, .footer{  
   background-color: #006d77;

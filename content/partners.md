@@ -51,7 +51,7 @@ In the EMCL++ programme we work with associated partners from academia and indus
 <div class="card-deck" style="margin-bottom: 2em;">
 	<div class="card" style="width: 90%;">
 		<div class="embed-responsive embed-responsive-16by9">
-	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1GVmeJuvWA8/maxresdefault.webp" allowfullscreen></iframe>
+	<iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/oaeP5kERyEA/maxresdefault.webp" allowfullscreen></iframe>
 	</div>
 		<div class="card-body">
 			<p class="card-text">ANT, The Netherlands</p>
