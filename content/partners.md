@@ -58,7 +58,7 @@ In the EMCL++ programme we work with associated partners from academia and indus
 		</div>
 	</div>
 	<div class="card" style="width: 90%;">
-		{{ video (src="https://player.vimeo.com/external/336599725.hd.mp4?s=20369a048a1c843274a840c3c2bf989f4e5f6c97&amp;profile_id=175", img="https://altoida.com/wp-content/uploads/2019/04/videoPosterCTP1.svg") }}
+		{{ video (src="https://player.vimeo.com/external/336599725.hd.mp4?s=20369a048a1c843274a840c3c2bf989f4e5f6c97&amp;profile_id=175&amp;dnt=1", img="https://altoida.com/wp-content/uploads/2019/04/videoPosterCTP1.svg") }}
 		<div class="card-body">
 			<p class="card-text">Altoida, Switzerland</p>
 		</div>
