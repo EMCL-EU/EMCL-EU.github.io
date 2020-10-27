@@ -26,6 +26,14 @@
   /*border-color: #7c316c;*/
 }
   
+.card-link {
+  color: #000;
+}
+
+.card-link:hover{
+  color: #006d77;
+}
+
 html {
   position: relative;
   min-height: 100%;
