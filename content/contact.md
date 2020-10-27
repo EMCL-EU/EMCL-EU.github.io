@@ -11,10 +11,22 @@ template = "page.html"
 
 <div class="container">
 
-# Call us
-0123456
+## General Contact
+Alice Pomstra: [info@emcl.eu](mailto:info@emcl.eu)
 
-# E-mail us
-[info@emcl.eu](mailto:info@emcl.eu)
+### University of Groningen, the Netherlands 
+### (Coordinating Partner)
+Local Director: \
+Local Coordinator: \
+Study Advisor: [Alice Pomstra](https://www.rug.nl/staff/a.y.pomstra/) 
+
+
+### University of Eastern Finland
+Local Director: \
+Study Advisor:
+
+### University of Ghent, Belgium
+Local Director: \
+Study Advisor:
 
 </div>
