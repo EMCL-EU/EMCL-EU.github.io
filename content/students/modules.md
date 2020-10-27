@@ -5,7 +5,7 @@ template = "students.html"
 
 {{ menu (act="students") }} 
 
-{% top_image (title="Modules") %}
+{% top_image (title="Modules", credit="UG, photographer: Peter Tahl") %}
 	petertahl.jpg
 {% end %}
 
@@ -54,7 +54,3 @@ Bla bla bla - good question. This one is easy to answer, just read the guideline
 
 </div>
 </div>
-
-{% credit() %}
-Photo: &copy; UG, photographer: Peter Tahl.
-{% end %}

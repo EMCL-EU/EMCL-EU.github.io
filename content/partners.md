@@ -6,7 +6,7 @@ template = "page.html"
 {{ menu (act="partners") }} 
 
 
-{% top_image (title="Associated Partners") %}
+{% top_image (title="Associated Partners", credit="https://pixabay.com/photos/ghent-city-centre-gent-belgium-1139784/") %}
 ghent.jpg
 {% end %}
 

@@ -5,7 +5,7 @@ template = "page.html"
 
 {{ menu (act="contact") }} 
 
-{% top_image (title="Contact") %}
+{% top_image (title="Contact", credit="UG, photographer: Michiel de Groot") %}
 	harmo-Michel-de-Groot.jpg
 {% end %}
 

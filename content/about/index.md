@@ -6,7 +6,7 @@ template = "page.html"
 {{ menu (act="about") }} 
 
 
-{% top_image (title="About EMCL++") %}
+{% top_image (title="About EMCL++", credit="UG, photographer: Michiel de Groot") %}
 	harmo-Michel-de-Groot.jpg
 {% end %}
 
@@ -43,7 +43,3 @@ EMCL++ is offered by
 - Ghent University (BE)
 
 </div>
-
-{% credit() %}
-Photo: &copy; UG, photographer: Michiel de Groot.
-{% end %}

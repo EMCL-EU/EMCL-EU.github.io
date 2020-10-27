@@ -5,7 +5,7 @@ template = "page.html"
 {{ menu (act="admission") }} 
 
 
-{% top_image (title="Admission") %}
+{% top_image (title="Admission", credit="https://pixabay.com/photos/groningen-canal-boats-netherlands-2332073/") %}
 groningen2.jpg
 {% end %}
 

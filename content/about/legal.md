@@ -6,7 +6,7 @@ template = "page.html"
 {{ menu (act="about") }} 
 
 
-{% top_image (title="Legal notices") %}
+{% top_image (title="Legal notices", credit="UG, photographer: Michiel de Groot") %}
 	harmo-Michel-de-Groot.jpg
 {% end %}
 
@@ -24,7 +24,3 @@ Selected (proposed for a scholarship/fellowship, put on the reserve list or enro
 
 
 </div>
-
-{% credit() %}
-Photo: &copy; UG, photographer: Michiel de Groot.
-{% end %}
