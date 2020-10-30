@@ -20,7 +20,7 @@ You can find relevant information for prospective, current and previous students
 - [Courses](courses)
 - [Alumni](alumni)
 
-You can also download the [student handbook](handbook.pdf)
+You can also download the [student handbook](handbook.pdf).
 
 
 </div>
