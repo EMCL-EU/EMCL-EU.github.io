@@ -1,5 +1,5 @@
 +++
-title = "About EMCL++"
+title = "Legal Notics"
 template = "page.html"
 +++
 
