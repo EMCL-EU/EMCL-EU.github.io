@@ -10,18 +10,8 @@ groningen2.jpg
 {% end %}
 
 <div class="container">
-	<!-- Example row of columns -->
 
-<div class="row">
-<div class="col">
+You can find information on the admission procedure for 2021 here soon.
 
-# bla
 
-</div>
-<div class="col text-right">
-
-# bla
-
-</div>
-</div>
 </div>
