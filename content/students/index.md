@@ -12,21 +12,15 @@ template = "students.html"
 
 <div class="container">
 
-# General information for students
+# Welcome in the student corner
 
-We need some content here, say something nice about students etc.
+You can find relevant information for prospective, current and previous students on the submenu pages of the student corner, e.g. on the
 
-You never know what it will be good for...
-Just some more info
-And even more
+- [Modules](modules)
+- [Courses](courses)
+- [Alumni](alumni)
 
-Bla bla bla
+You can also download the [student handbook](handbook.pdf)
 
-Make this a rather lenghty story just to move the credits down..
 
-bla 
-
-bla
-
-This should do for now, I hope!
 </div>
