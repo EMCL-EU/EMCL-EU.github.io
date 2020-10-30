@@ -16,11 +16,11 @@ template = "students.html"
 
 You can find relevant information for prospective, current and previous students on the submenu pages of the student corner, e.g. on the
 
-- [Modules](modules)
-- [Courses](courses)
-- [Alumni](alumni)
+- [Modules](/modules)
+- [Courses](/courses)
+- [Alumni](/alumni)
 
-You can also download the [student handbook](handbook.pdf).
+You can also download the [student handbook](files/handbook2020.pdf).
 
 
 </div>
