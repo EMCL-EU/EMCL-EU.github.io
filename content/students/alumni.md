@@ -9,4 +9,23 @@ template = "students.html"
 	petertahl.jpg
 {% end %}
 
-<object type="text/html" data="http://emcl.eu/EMCLalumni/alumniAll.html" style="width: 100%; height: 500px"></object>
+<div class="container">
+These are some video's made by previous cohorts about their EMCL-time:
+
+
+<div class="row" style="margin-top: 1em">
+	<div class="col-sm">
+		<div class="embed-responsive embed-responsive-16by9">
+				<iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/ptnaDOuBD2s/maxresdefault.webp" allowfullscreen></iframe>
+		</div>
+	</div>
+	<div class="col-sm">
+		<div class="embed-responsive embed-responsive-16by9">
+				<iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/1b3cTlCnrV4/maxresdefault.webp" allowfullscreen></iframe>
+			</div>
+	</div>
+</div>
+<br/>
+
+There is also a [page managed by our alumni](http://emcl.eu/EMCLalumni/alumniAll.html"), where you can find an overview of previous cohorts.
+</div>
