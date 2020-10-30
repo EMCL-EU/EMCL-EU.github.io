@@ -65,10 +65,10 @@ In the EMCL++ programme we work with associated partners from academia, industry
 			</div>
 		</div>
 		<div class="card" style="width: 90%;">
-			<a href="https://www.mpi.nl/">
+			<a href="https://www.cbs.mpg.de/en">
 				<img class="card-img-top" src="/img/partners/mpi.png" alt="MPI"></a>
 			<div class="card-body">
-				<a href="https://www.mpi.nl/" class="card-link">Max Planck Gesellschaft zur Förderung der Wissenschaften E.V. </a>
+				<a href="https://www.cbs.mpg.de/en" class="card-link">Max Planck Institute for Human Cognitive and Brain Sciences, Germany</a>
 			</div>
 		</div>
 		<div class="card" style="width: 90%;">
