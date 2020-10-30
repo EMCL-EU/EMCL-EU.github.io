@@ -26,7 +26,7 @@ Candidates should have at least three years of higher education (BA, BSc or equi
 In addition, candidates must be fluent in spoken and written English.
 
 ## Required documents
-- Completed **application form** ([ODT format](/files/application2020.odt), [DOC format](/files/application2021.doc))
+- Completed [**application form**](/files/application2021.doc)
 - **Letter of motivation** for applying to the EMCL+ programme
 - Copies of your **academic curriculum** (official transcripts) and a copy of your **university degree certificate**, plus authorised translations if these are not in English, Dutch, German or Finnish)
 - **Curriculum vitae** in [EuroPass](http://europass.cedefop.europa.eu/) format, with your photo on the first page; follow [this link](https://europass.cedefop.europa.eu/editors/en/cv/compose) to start composing your CV
@@ -47,7 +47,7 @@ Once you have submitted your application in OAS you will receive instructions on
 In addition to uploading the other required documents (see above, Required documents) in OAS, you will need to ask your two academic referees to send their reference letter to this email address: [arts.ma.admission@rug.nl](mailto:arts.ma.admission@rug.nl).
 
 ### Application form
-The application form is available in ODT (LibreOffice, OpenOffice) format [here](/files/application2020.odt) and in DOC (Microsoft Word) format [here](/files/application2021.doc).
+The application form is available in DOC (Microsoft Word) format [here](/files/application2021.doc).
 
 ## Selection results
 Applications are reviewed by a selection committee. The committee rates every single eligible application on the basis of the following criteria:

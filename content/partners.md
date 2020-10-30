@@ -13,7 +13,9 @@ ghent.jpg
 
 <div class="container">
 
-In the EMCL++ programme we work with associated partners from academia, industry and the clinical field.
+In the EMCL++ programme we are joining forces with academic partners with complementary expertise and from related disciplines and non-academic partners from the R&D (neurotechnology) and the clinical sector.
+These associated partners have been selected because they are stakeholders and future employers. In EMCL++ an internship at one of these associated partners will be mandatory.
+
 
 # Educational and Research Institutes
 
