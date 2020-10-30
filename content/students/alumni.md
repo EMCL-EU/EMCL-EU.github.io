@@ -27,5 +27,5 @@ These are some video's made by previous cohorts about their EMCL-time:
 </div>
 <br/>
 
-There is also a [page managed by our alumni](http://emcl.eu/EMCLalumni/alumniAll.html"), where you can find an overview of previous cohorts.
+There is also a [page managed by our alumni](http://emcl.eu/EMCLalumni/alumniAll.html), where you can find an overview of previous cohorts.
 </div>
