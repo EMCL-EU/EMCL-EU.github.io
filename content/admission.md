@@ -26,13 +26,13 @@ Candidates should have at least three years of higher education (BA, BSc or equi
 In addition, candidates must be fluent in spoken and written English.
 
 ## Required documents
-- Completed [**application form**](/files/application2021.doc)
+- Completed **application form** [(.doc template)](/files/application2021.doc)
 - **Letter of motivation** for applying to the EMCL+ programme
 - Copies of your **academic curriculum** (official transcripts) and a copy of your **university degree certificate**, plus authorised translations if these are not in English, Dutch, German or Finnish)
 - **Curriculum vitae** in [EuroPass](http://europass.cedefop.europa.eu/) format, with your photo on the first page; follow [this link](https://europass.cedefop.europa.eu/editors/en/cv/compose) to start composing your CV
 - Copy of your **passport** or official ID card
 - Language test results or other **proof of required English skills** (see below)
-- **Two letters of recommendation:** to be submitted separately (see below, Application process)
+- **Two letters of recommendation:** to be submitted separately (see below, "Application process")
 
 ### Proof of necessary English skills
 **Please note that only native speakers do not need to hand in such proof.**
@@ -44,7 +44,7 @@ In addition, candidates must be fluent in spoken and written English.
 First you need to register in Studielink: [https://www.studielink.nl/account/aanvragen/personalia](https://www.studielink.nl/account/aanvragen/personalia), then in our online application system OAS: [https://oas.gai.rug.nl/studapp/oa/](https://oas.gai.rug.nl/studapp/oa/). You will receive login details for the Online Application System via e-mail after you have applied in Studielink. Look for an e-mail titled: *"University of Groningen - Complete your application"*. Please make sure you complete all the steps in OAS until your application has the status *"Submitted"*.
 
 Once you have submitted your application in OAS you will receive instructions on how to pay the application fee of € 74. To pay this amount, please use the link to the web shop. 
-In addition to uploading the other required documents (see above, Required documents) in OAS, you will need to ask your two academic referees to send their reference letter to this email address: [arts.ma.admission@rug.nl](mailto:arts.ma.admission@rug.nl).
+In addition to uploading the other required documents (see above, "Required documents") in OAS, you will need to ask your two academic referees to send their reference letter to this email address: [arts.ma.admission@rug.nl](mailto:arts.ma.admission@rug.nl).
 
 ### Application form
 The application form is available in DOC (Microsoft Word) format [here](/files/application2021.doc).

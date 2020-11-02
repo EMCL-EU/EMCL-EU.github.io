@@ -21,7 +21,7 @@ The Netherlands\
 Email: [info@emcl.eu](mailto:info@emcl.eu) \
 Tel. + 31 50 363 8135
 
-### University of Groningen, the Netherlands 
+<!--### University of Groningen, the Netherlands 
 ### (Coordinating Partner)
 Local Director: \
 Study Advisor: [Alice Pomstra](https://www.rug.nl/staff/a.y.pomstra/) 
@@ -33,6 +33,6 @@ Study Advisor:
 
 ### University of Ghent, Belgium
 Local Director: \
-Study Advisor:
+Study Advisor:-->
 
 </div>
