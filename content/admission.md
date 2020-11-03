@@ -12,7 +12,6 @@ groningen2.jpg
 <div class="container">
 
 # Student admission
-<p style="color: red"> This section will be updated for the new EMCL++ program soon.
 
 ## Required qualifications
 Candidates should have at least three years of higher education (BA, BSc or equivalent) with an emphasis on one or more of the following:
@@ -48,6 +47,9 @@ In addition to uploading the other required documents (see above, "Required docu
 
 ### Application form
 The application form is available in DOC (Microsoft Word) format [here](/files/application2021.doc).
+
+### Deadline
+Applications need to be submitted no later than **December 15, 2020**.
 
 ## Selection results
 Applications are reviewed by a selection committee. The committee rates every single eligible application on the basis of the following criteria:
