@@ -1,7 +1,6 @@
 :root {
 
   --font-family-sans-serif: Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  
 }
 /*background colors*/
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link, .btn, .btn:hover, .footer{  
@@ -13,6 +12,11 @@
 .nav-link:hover, .nav-link:focus, .dropdown-item:hover, .dropdown-item:focus, .mb-0{
   color: #006d77;
   /*color: #7c316c;*/
+}
+
+/*justify text*/
+.container, .container-fluid, .p{
+  text-align: justify;
 }
 
 .btn-link, .btn-link:hover{
@@ -74,7 +78,7 @@ body {
 }
 
 .container-fluid{
-  max-height: 100% 
+  max-height: 100%;
 }
 
 .dropdown:hover .dropdown-menu{
