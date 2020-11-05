@@ -22,7 +22,7 @@ Candidates should have at least three years of higher education (BA, BSc or equi
 - Psychology
 - Special education
 
-In addition, candidates must be fluent in spoken and written English.
+In addition, candidates must have a high proficiency in English (see below), as the programme is taught in English.
 
 ## Required documents
 - Completed **application form** [(.doc template)](/files/application2021.doc)
@@ -33,7 +33,7 @@ In addition, candidates must be fluent in spoken and written English.
 - Language test results or other **proof of required English skills** (see below)
 - **Two letters of recommendation:** to be submitted separately (see below, "Application process")
 
-### Proof of necessary English skills
+### Proof of necessary English skills {#english}
 **Please note that only native speakers do not need to hand in such proof.**
 - **TOEFL:** minimum of 600 (paper), 250 (computer) or 100 points (internet)
 - or **IELTS** of at least 7.0
