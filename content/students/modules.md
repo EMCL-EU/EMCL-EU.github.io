@@ -57,7 +57,7 @@ All modules of the EMCL++ program are graded with ECTS. A student has to obtain 
 
 {% accordionItem(id="five", question="Neurotechnology and IT for clinical linguistics (14 ECTS)", cardH ="foo", ext=true) %}
 <ul>
-	<li>Neurolinguistics and neuroanatomy (RUG, 1st term, 5 ECTS)</li>
+	<li>Neuroimaging and Language (RUG, 1st term, 5 ECTS)</li>
 	<li>Development of serious games, apps and virtual reality for language impaired populations (RUG, 1st term, 6 ECTS)</li>
 	<li>Eye-tracking in language research (UGent, 2nd term, 3 ECTS)</li>
 </ul>

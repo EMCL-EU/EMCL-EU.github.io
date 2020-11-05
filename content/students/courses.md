@@ -24,7 +24,7 @@ Below you can find a list of the courses offered per term.
 - Language and speech disorders in adults (5 ECTS, module 4)
 - Language and speech disorders in children (5 ECTS, module 4)
 - Language testing in during awake brain surgery (6 ECTS, module 4)
-- Neurolinguistics and neuroanatomy (5 ECTS, module 5)
+- Neuroimaging and Language (5 ECTS, module 5)
 - Development of serious games, apps and virtual reality for language impaired populations (6 ECTS, module 5)
 
 ## 2nd term: University of Ghent (Belgium)
