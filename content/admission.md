@@ -37,13 +37,15 @@ In addition, candidates must have a high proficiency in English (see below), as 
 **Please note that only native speakers do not need to hand in such proof.**
 - **TOEFL:** minimum of 600 (paper), 250 (computer) or 100 points (internet)
 - or **IELTS** of at least 7.0
-- or **CAE** of at least level C1
+- or **Cambride C1 Advanced or C2 Proficiency Certificate** 
+
+The proof of English skills may **not be older than 2 years**.
 
 ## Application process
 First you need to register in Studielink: [https://www.studielink.nl/account/aanvragen/personalia](https://www.studielink.nl/account/aanvragen/personalia), then in our online application system OAS: [https://oas.gai.rug.nl/studapp/oa/](https://oas.gai.rug.nl/studapp/oa/). You will receive login details for the Online Application System via e-mail after you have applied in Studielink. Look for an e-mail titled: *"University of Groningen - Complete your application"*. Please make sure you complete all the steps in OAS until your application has the status *"Submitted"*.
 
 Once you have submitted your application in OAS you will receive instructions on how to pay the application fee of € 74. To pay this amount, please use the link to the web shop. 
-In addition to uploading the other required documents (see above, "Required documents") in OAS, you will need to ask your two academic referees to send their reference letter to this email address: [arts.ma.admission@rug.nl](mailto:arts.ma.admission@rug.nl).
+In addition to uploading the other required documents (see above, "Required documents") in OAS, you will need to ask your two academic referees to send their reference letter to this email address: [hum.admissions@rug.nl](mailto:hum.admissions@rug.nl).
 
 ### Application form
 The application form is available in DOC (Microsoft Word) format [here](/files/application2021.doc).

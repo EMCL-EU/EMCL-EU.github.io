@@ -85,7 +85,7 @@ We joined forces with academic partners with complementary expertise and from re
 	<div class="card-deck" style="margin-bottom: 2em;">
 		<div class="card" style="width: 90%;">
 			<a href="https://www.cuny.edu/">
-				<img class="card-img-top" src="/img/partners/CUNY.png" alt="Cuny"></a>
+				<img class="card-img-top" src="/img/partners/cuny.png" alt="Cuny"></a>
 			<div class="card-body">
 				<a href="https://www.cuny.edu/" class="card-link">City University of New York Graduate Center, USA</a>
 			</div>
