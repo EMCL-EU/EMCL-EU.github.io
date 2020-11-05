@@ -1,0 +1,105 @@
+<style type="text/css">
+
+a {
+	target: current;
+}
+
+a, a:link, a:active, a:hover {
+	text-decoration: none;
+}
+a:link {
+	color: #59595A;
+}
+a:hover {
+	cursor: pointer;
+}
+
+#breadcrumbcontainer a {
+	text-decoration:underline;
+}
+
+.list-head, .list-head-name, .list-item, .list-item-link, .list-head-map {
+	background-color:#DEDEDE;
+	margin-bottom: 5px;
+	padding:5px;
+}
+
+.list-head {
+	height: 25px;
+	text-align:right; 
+}
+
+.list-head-map {
+	height: 480px;
+	text-align: left;
+}
+
+.list-head-name {
+	height: 25px;
+	font-weight:bold;
+	font-size:1.2em;
+	margin-left: 100px;
+}
+
+.list-head-year {
+	float:left;
+	font-weight:bold;
+}
+
+.list-head-back{
+	font-weight:bold;
+}
+
+.list-content {
+	margin-left: 130px;
+}
+
+.list-item {
+	/*height: 25px;*/
+}
+
+.list-item-link {
+	display:block;
+	overflow:auto;
+}
+.list-item-link:hover {
+  background-color:#EFF5FB;
+}
+
+
+.profile-pic {
+	float:left;
+}
+
+.no-pic-box {
+	display:block; 
+	height: 110px;
+	width: 85px;
+	border: 1px solid black;
+	float:left;
+	text-align:center;
+}
+
+.name-span {
+	margin-left: 10px;
+	font-weight:bold;
+	font-size:1.2em;
+}
+
+.thesis-span {
+	margin-left:105px;
+	display:block;
+}
+
+.student-heading {
+	float:left;
+	width: 130px;
+	font-weight:bold;
+}
+
+.student-item {
+	margin-top: 7px;
+}
+
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}* html .clearfix{height:1%;}*:first-child + html .clearfix{min-height:1%;}
+</style>
