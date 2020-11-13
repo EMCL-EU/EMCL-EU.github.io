@@ -49,7 +49,7 @@ Below you can find a list of the courses offered per term.
 - Thesis (30 ECTS, module 7)
 
 ## All terms
-Research Extra's (module 8) will be provided throughout the programme by all partners.
+Research Extras (module 8) will be provided throughout the programme by all partners.
 
 </div>
 </div>

@@ -10,7 +10,7 @@ template = "students.html"
 {% end %}
 
 <div class="container">
-These are some video's made by previous cohorts about their EMCL-time:
+These are some videos made by previous cohorts about their EMCL-time:
 
 
 <div class="row" style="margin-top: 1em">

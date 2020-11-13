@@ -13,7 +13,7 @@ template = "students.html"
 
 <div id="accordion">
 
-All modules of the EMCL++ program are graded with ECTS. A student has to obtain at least 120 ECTS, 30 ECTS in each term, including internship and thesis. The program is divided over 8 modules: 
+All modules of the EMCL++ program are graded with ECTS. A student has to obtain at least 120 ECTS, 30 ECTS in each term, including internship and thesis. The program is divided into 8 modules: 
 
 
 {% accordionItem(id="one", question="Start-up classes (no ECTS)", cardH ="foo", ext=true) %}
@@ -73,8 +73,8 @@ The thesis will be written in the fourth term, under supervision of (at least) a
 Additionally, the course "Academic writing (Thesis preparation)" (4 ECTS) will be offered in the 3rd term at UEF.
 {% end %}
 
-{% accordionItem(id="eight", question="Research Extra’s (no ECTS)", cardH ="foo", ext=true) %}
-Research Extra's will be provided throughout the programme. This could be colloquia, reading circles, excursions and participation at the Science of Aphasia conference.
+{% accordionItem(id="eight", question="Research Extras (no ECTS)", cardH ="foo", ext=true) %}
+Research Extras will be provided throughout the programme. This could be colloquia, reading circles, excursions and participation at the Science of Aphasia conference.
 {% end %}
 
 </div>

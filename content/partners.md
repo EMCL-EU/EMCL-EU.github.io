@@ -13,7 +13,7 @@ ghent.jpg
 
 <div class="container">
 
-We joined forces with academic partners with complementary expertise and from related disciplines and non-academic partners from the R&D (neurotechnology) and the clinical sector. These associated partners have been selected because they are stakeholders and potential future employers. In EMCL++ an internship at one of these associated partners is mandatory.
+We joined forces with academic partners who are from related disciplines and have complementary expertise, as well as non-academic partners from the R&D (neurotechnology) and the clinical sector. These associated partners have been selected because they are stakeholders and potential future employers. In EMCL++ an internship at one of these associated partners is mandatory.
 
 
 # Educational and Research Institutes
