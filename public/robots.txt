@@ -1,2 +1,3 @@
 User-agent: *
+Allow: /
 Sitemap: http://emcl.eu/sitemap.xml

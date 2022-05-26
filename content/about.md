@@ -34,6 +34,7 @@ All EMCL++ courses are recognized by each of the partners and there is a **joint
 - Preparation for future positions in academia and/or industry
 - Possibility to obtain a scholarship or to apply as a self-funder – [here](/admission) 
 - Strong network and great sense of community!
+- Consortium agreement - [here](/files/CA.pdf)
 - For more information, please contact: info@emcl.eu
 
 

@@ -55,11 +55,13 @@
 
 
 <script>
+
 		$("a.active").removeClass("active");
       function setActive(i) {
         document.getElementById(i).classList.add("active");
       }
      document.addEventListener("DOMContentLoaded", function(){
+          
           setActive("students");
       });
 </script> 
@@ -78,7 +80,7 @@
 </div>
 <div class="container">
 <div id="accordion">
-<div class="card">
+  <div class="card">
     <div class="card-header" id="foo">
       <a data-toggle="collapse" data-parent="#accordion" href="#one" aria-expanded="false"
       aria-controls="one">
@@ -88,15 +90,17 @@
           <path d="M7.247 11.14L2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
         </svg><svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-caret-up-fill float-right" fill="#006d77" xmlns="http://www.w3.org/2000/svg">
         <path d="M7.247 4.86l-4.796 5.481c-.566.647-.106 1.659.753 1.659h9.592a1 1 0 0 0 .753-1.659l-4.796-5.48a1 1 0 0 0-1.506 0z"/></svg></span>
+
       </a>
     </div>
+
     <div id="one" class="collapse" aria-labelledby="foo" data-parent="#accordion">
       <div class="card-body">
         Bla bla bla - good question. This one is easy to answer, just read the guidelines...
       </div>
     </div>
   </div>
-<div class="card">
+  <div class="card">
     <div class="card-header" id="bar">
       <a data-toggle="collapse" data-parent="#accordion" href="#two" aria-expanded="false"
       aria-controls="two">
@@ -106,15 +110,17 @@
           <path d="M7.247 11.14L2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
         </svg><svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-caret-up-fill float-right" fill="#006d77" xmlns="http://www.w3.org/2000/svg">
         <path d="M7.247 4.86l-4.796 5.481c-.566.647-.106 1.659.753 1.659h9.592a1 1 0 0 0 .753-1.659l-4.796-5.48a1 1 0 0 0-1.506 0z"/></svg></span>
+
       </a>
     </div>
+
     <div id="two" class="collapse" aria-labelledby="bar" data-parent="#accordion">
       <div class="card-body">
         Bla bla bla - good question- I don't have the answer right now, please check back.
       </div>
     </div>
   </div>
-<div class="card">
+  <div class="card">
     <div class="card-header" id="bla">
       <a data-toggle="collapse" data-parent="#accordion" href="#three" aria-expanded="false"
       aria-controls="three">
@@ -124,8 +130,10 @@
           <path d="M7.247 11.14L2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/>
         </svg><svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-caret-up-fill float-right" fill="#006d77" xmlns="http://www.w3.org/2000/svg">
         <path d="M7.247 4.86l-4.796 5.481c-.566.647-.106 1.659.753 1.659h9.592a1 1 0 0 0 .753-1.659l-4.796-5.48a1 1 0 0 0-1.506 0z"/></svg></span>
+
       </a>
     </div>
+
     <div id="three" class="collapse" aria-labelledby="bla" data-parent="#accordion">
       <div class="card-body">
         Bla bla bla - good question- I don't have the answer right now, please check back.

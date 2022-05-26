@@ -23,7 +23,7 @@ Below you can find a list of the courses offered per term.
 - Language and Culture (Dutch) (3 ECTS, module 2)
 - Language and speech disorders in adults (5 ECTS, module 4)
 - Language and speech disorders in children (5 ECTS, module 4)
-- Language testing in during awake brain surgery (6 ECTS, module 4)
+- Language testing in awake brain surgery (6 ECTS, module 4)
 - Neuroimaging and Language (5 ECTS, module 5)
 - Development of serious games, apps and virtual reality for language impaired populations (6 ECTS, module 5)
 

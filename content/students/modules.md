@@ -45,7 +45,7 @@ All modules of the EMCL++ program are graded with ECTS. A student has to obtain 
 <ul>
 	<li>Language and speech disorders in adults (RUG, 1st term, 5 ECTS)</li>
 	<li>Language and speech disorders in children (RUG, 1st term, 5 ECTS)</li>
-	<li>Language testing in during awake brain surgery (RUG, 1st term, 6 ECTS)</li>
+	<li>Language testing in awake brain surgery (RUG, 1st term, 6 ECTS)</li>
 	<li>Bilingualism (UGent, 2nd term, 4 ECTS)</li>
 	<li>Dyslexia (UGent, 2nd term, 4 ECTS)</li>
 	<li>Advances in psycholinguistics (UGent, 2nd term, 3 ECTS)</li>
