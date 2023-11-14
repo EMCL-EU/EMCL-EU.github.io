@@ -18,7 +18,7 @@ University of Groningen, Faculty of Arts \
 Oude Kijk in 't Jatstraat 26, 9712 EK Groningen \
 P.O. Box 716, 9700 AS Groningen \
 The Netherlands\
-Email: [info@emcl.eu](mailto:info@emcl.eu) \
+Email: [emcl@rug.nl](mailto:emcl@rug.nl) \
 Tel. + 31 50 363 8135
 
 <!--### University of Groningen, the Netherlands 
