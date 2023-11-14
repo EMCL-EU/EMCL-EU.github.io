@@ -40,24 +40,24 @@ We joined forces with academic partners who are from related disciplines and hav
 				<a href="https://www.ru.nl/donders/" class="card-link">Donders Instituut (Radboud University), Netherlands</a>
 			</div>
 		</div>
-		<div class="card" style="width: 90%;">
+		<!--<div class="card" style="width: 90%;">
 			<a href="https://www.hse.ru/en/">
 				<img class="card-img-top" src="/img/partners/hse.png" alt="HSE" style="padding: 1em 1em"></a>
 			<div class="card-body">
 				<a href="https://www.hse.ru/en/" class="card-link">Federal State Autonomous Educational Institution for Higher Education, Russia</a>
 			</div>
-		</div>
+		</div>-->
+        <div class="card" style="width: 90%;">
+            <a href="http://en.hit.edu.cn/">
+                <img class="card-img-top" src="/img/partners/harbin.png" alt="Harbin Institute of Technology"></a>
+            <div class="card-body">
+                <a href="http://en.hit.edu.cn/" class="card-link">Harbin Institute of Technology, China</a>
+            </div>
+        </div>      
 	</div>
 </div>
 <div row>
-	<div class="card-deck" style="margin-bottom: 2em;">
-		<div class="card" style="width: 90%;">
-			<a href="http://en.hit.edu.cn/">
-				<img class="card-img-top" src="/img/partners/harbin.png" alt="Harbin Institute of Technology"></a>
-			<div class="card-body">
-				<a href="http://en.hit.edu.cn/" class="card-link">Harbin Institute of Technology, China</a>
-			</div>
-		</div>
+      <div class="card-deck" style="margin-bottom: 2em;">
 		<div class="card" style="width: 90%;">
 			<a href="https://www.mq.edu.au/">
 				<img class="card-img-top" src="/img/partners/macq.png" alt="Macquarie University"></a>
@@ -79,17 +79,17 @@ We joined forces with academic partners who are from related disciplines and hav
 				<a href="https://www.taltech.ee/en" class="card-link">Techincal University Tallinn, Estonia</a>
 			</div>
 		</div>
+          <div class="card" style="width: 90%;">
+            <a href="https://www.cuny.edu/">
+                <img class="card-img-top" src="/img/partners/cuny.png" alt="Cuny"></a>
+            <div class="card-body">
+                <a href="https://www.cuny.edu/" class="card-link">City University of New York Graduate Center, USA</a>
+            </div>
+        </div> 
 	</div>
 </div>
 <div row>
 	<div class="card-deck" style="margin-bottom: 2em;">
-		<div class="card" style="width: 90%;">
-			<a href="https://www.cuny.edu/">
-				<img class="card-img-top" src="/img/partners/cuny.png" alt="Cuny"></a>
-			<div class="card-body">
-				<a href="https://www.cuny.edu/" class="card-link">City University of New York Graduate Center, USA</a>
-			</div>
-		</div>
 		<div class="card" style="width: 90%;">
 			<a href="https://brainvitge.org/">
 				<img class="card-img-top" src="/img/partners/brainvitge.png" alt="Universitat de Barcelona, IDIBELL" style="padding: 1em 1em"></a>
@@ -111,6 +111,8 @@ We joined forces with academic partners who are from related disciplines and hav
 				<a href="https://www.hf.uio.no/multiling/english/" class="card-link">University of Oslo, Center for Multilingualisme in Society across the Lifespan, Norway</a>
 			</div>
 		</div>
+        <div class="card" style="width: 90%; border: 0px">
+        </div>      
 	</div>
 </div>
 
@@ -172,13 +174,13 @@ We joined forces with academic partners who are from related disciplines and hav
 # Clinical Institutes
 <div row>
 	<div class="card-deck" style="margin-bottom: 2em;">
-		<div class="card" style="width: 90%;">
+		<!--<div class="card" style="width: 90%;">
 			<a href="https://www.grid.ac/institutes/grid.473407.3">
 				<img class="card-img-top" src="/img/partners/cprin.png" alt="CPRIN"></a>
 			<div class="card-body">
 				<a href="https://www.grid.ac/institutes/grid.473407.3" class="card-link">Center for Speech Pathology and Neurorehabilitation, Russia</a>
 			</div>
-		</div>
+		</div>-->
 		<div class="card" style="width: 90%;">
 			<a href="https://www.chu-montpellier.fr/fr/">
 				<img class="card-img-top" src="/img/partners/chu.png" alt="Centre Hospitalier Universitaire Montpellier"></a>
@@ -200,17 +202,17 @@ We joined forces with academic partners who are from related disciplines and hav
 				<a href="http://hopital-lariboisiere.aphp.fr/" class="card-link">Hôpital Lariboisière Paris, France</a>
 			</div>
 		</div>
+        <div class="card" style="width: 90%;">
+            <a href="https://www.kch.nhs.uk/">
+                <img class="card-img-top" src="/img/partners/kings.png" alt="King's College Hospital"></a>
+            <div class="card-body">
+                <a href="https://www.kch.nhs.uk/" class="card-link">King's College Hospital, UK</a>
+        </div>
+        </div>      
 	</div>
 </div>
 <div row>
 	<div class="card-deck" style="margin-bottom: 2em;">
-		<div class="card" style="width: 90%;">
-			<a href="https://www.kch.nhs.uk/">
-				<img class="card-img-top" src="/img/partners/kings.png" alt="King's College Hospital"></a>
-			<div class="card-body">
-				<a href="https://www.kch.nhs.uk/" class="card-link">King's College Hospital, UK</a>
-			</div>
-		</div>
 		<div class="card" style="width: 90%;">
 			<a href="https://kentalis.com">
 				<img class="card-img-top" src="/img/partners/kentalis.png" alt="Kentalis"></a>
@@ -218,13 +220,13 @@ We joined forces with academic partners who are from related disciplines and hav
 				<a href="https://kentalis.com" class="card-link">Koninklijke Kentalis, the Netherlands</a>
 			</div>
 		</div>
-		<div class="card" style="width: 90%;">
+		<!--<div class="card" style="width: 90%;">
 			<a href="http://www.pirogov-center.ru/">
 				<img class="card-img-top" src="/img/partners/pirogov.png" alt="National Medical and Surgical Center named after N.I. Pirogov"></a>
 			<div class="card-body">
 				<a href="http://www.pirogov-center.ru/" class="card-link">National Medical and Surgical Center named after N.I. Pirogov, Russia</a>
 			</div>
-		</div>
+		</div>-->
 		<div class="card" style="width: 90%;">
 			<a href="https://www.mri.tum.de/">
 				<img class="card-img-top" src="/img/partners/tu.png" alt="Klinkum rechts der Isar" style="padding: 1em 1em"></a>
@@ -232,17 +234,20 @@ We joined forces with academic partners who are from related disciplines and hav
 				<a href="https://www.mri.tum.de/" class="card-link">Technische Universität Muenchen, Klinkum rechts der Isar, Germany</a>
 			</div>
 		</div>
+        <div class="card" style="width: 90%;">
+            <a href="https://www.umcg.nl">
+                <img class="card-img-top" src="/img/partners/umcg.png" alt="UMCG" style="padding: 1em 1em"></a>
+            <div class="card-body">
+                <a href="https://www.umcg.nl" class="card-link">University Medical Center Groningen, the Netherlands</a>
+            </div>
+        </div>
+        <div class="card" style="width: 90%;border: 0px">
+        </div>      
 	</div>
 </div>
-<div row>
+<!--<div row>
 	<div class="card-deck" style="margin-bottom: 2em;">
-		<div class="card" style="width: 90%;">
-			<a href="https://www.umcg.nl">
-				<img class="card-img-top" src="/img/partners/umcg.png" alt="UMCG" style="padding: 1em 1em"></a>
-			<div class="card-body">
-				<a href="https://www.umcg.nl" class="card-link">University Medical Center Groningen, the Netherlands</a>
-			</div>
-		</div>
+		
 				<div class="card" style="width: 90%; border: 0px">
 		</div>
 		<div class="card" style="width: 90%;border: 0px">
@@ -250,6 +255,6 @@ We joined forces with academic partners who are from related disciplines and hav
 		<div class="card" style="width: 90%;border: 0px">
 		</div>
 	</div>
-</div>
+</div>-->
 
 </div>
