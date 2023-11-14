@@ -11,7 +11,8 @@ template = "students.html"
 
 <div class="container">
 
-Below you can find a list of the courses offered per term.
+Below you can find a list of the courses offered per term. <br>
+For a more detailed description of the courses, please have a look at [this document](/files/course_descriptions.pdf).
 
 ## Start-up classes: University of Groningen (The Netherlands)
 - Statistics and methods (0 ECTS, module 1) 

@@ -78,4 +78,8 @@ Research Extras will be provided throughout the programme. This could be colloqu
 {% end %}
 
 </div>
+
+For a list of courses per term, please check [the course overview](/students/courses). More detailed descriptions of the courses can be found in [this document](/files/course_descriptions.pdf).
 </div>
+
+
