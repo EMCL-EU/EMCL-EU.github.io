@@ -103,14 +103,14 @@ body {
   display: none;
 }
 
-/*.faq[aria-expanded="false"]:before{
+.faq[aria-expanded="false"]:before{
   content:"\005E";
   align-self: right;
 }
 
 .faq[aria-expanded="true"]:before{
   content:"[ View Less ]";
-}*/
+}
 
 .rotate {
     -webkit-transform: rotate(-90deg);

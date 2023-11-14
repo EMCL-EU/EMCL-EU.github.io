@@ -13,6 +13,9 @@
         <loc>http://emcl.eu/contact/</loc>
     </url>
     <url>
+        <loc>http://emcl.eu/faq/</loc>
+    </url>
+    <url>
         <loc>http://emcl.eu/home/</loc>
     </url>
     <url>
@@ -29,9 +32,6 @@
     </url>
     <url>
         <loc>http://emcl.eu/students/courses/</loc>
-    </url>
-    <url>
-        <loc>http://emcl.eu/students/faq/</loc>
     </url>
     <url>
         <loc>http://emcl.eu/students/modules/</loc>
