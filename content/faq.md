@@ -17,7 +17,7 @@ template = "page.html"
 
 <div id="accordion">
   
-{% accordionItem(id="first", question="When will I hear back from you?", cardH ="response", ext=true) %}
+<!--{% accordionItem(id="first", question="When will I hear back from you?", cardH ="response", ext=true) %}
 Thank you for sending us your questions via <A HREF="mailto:emcl@rug.nl">emcl@rug.nl</A>. 
 Do not (!) resend your email. At this moment we are extremely busy with answering all your emails concerning reference letters, payments, technical issues, etc.
 <br> 
@@ -29,7 +29,7 @@ Do not (!) resend your email. At this moment we are extremely busy with answerin
 <br>
 <br>
 Stay calm and we will help you as soon as possible.
-{% end %}
+{% end %}-->
 
 {% accordionItem(id="one", question="What is the name of the European Master in Clinical Linguistics (EMCL) in Studielink? I cannot find it!", cardH ="studielink", ext=true) %}
 The name of the EMCL programme in "Studielink" is "Research Master in Clinical Linguistics".
@@ -46,8 +46,8 @@ You will receive the link for payment from our admissions office after you submi
 If it takes too long, please contact the admissions office: <A HREF="mailto:admissionsoffice@rug.nl">admissionsoffice@rug.nl</A>
 {% end %}
 
-{% accordionItem(id="four", question="I have not received my diploma yet/I will finish my BA  in 2024. Is that a problem?", cardH ="noDiploma", ext=false) %}
-Not a problem at all. You need to send us (so upload it in the progress portal) a transcript of records plus a statement of your university that you will finish your studies before the 1st of September 2024.
+{% accordionItem(id="four", question="I have not received my diploma yet/I will finish my BA in 2025. Is that a problem?", cardH ="noDiploma", ext=false) %}
+Not a problem at all. You need to send us (so upload it in the progress portal) a transcript of records plus a statement of your university that you will finish your studies before the 1st of September 2025.
 {% end %}
 
 {% accordionItem(id="five", question="What are the requirements for the motivation letter?", cardH ="motivationLetter", ext=false)%}
