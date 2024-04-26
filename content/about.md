@@ -15,7 +15,7 @@ template = "page.html"
 
 # What is the EMCL++
 
-EMCL++ is the successor of three Erasmus Mundus Joint Master Degree (EMJMD) editions spanning over twenty years of work in line with the objectives of attracting, selecting and funding excellent students. The programme was conceived in 1997 by **Prof. Dr. Roelien Bastiaanse** and **Prof. Dr. Ria de Bleser**, and the first students started in 1999. Thereafter, it obtained Erasmus Mundus labels in 2004, 2009, 2016 and 2020 – the last label grants the programme with continuity (and [scholarships!](/admission)) until 2026.
+EMCL++ is the successor of three Erasmus Mundus Joint Master Degree (EMJMD) editions spanning over twenty years of work in line with the objectives of attracting, selecting and funding excellent students. The programme was conceived in 1997 by **Prof. Dr. Roelien Bastiaanse** and **Prof. Dr. Ria de Bleser**, and the first students started in 1999. Thereafter, it obtained Erasmus Mundus labels in 2004, 2009, 2016 and 2020 – the last label grants the programme with continuity until 2026.
 
 EMCL++ is organized as a consortium of three academic partners: **University Ghent (UGENT)**, **University of Groningen (RUG)**, and **University of Eastern Finland (UEF)**. At the RUG the emphasis is on crosslinguistic studies of language-impaired children and adults, language testing in neurosurgical settings, and the usage of neurotechnology and IT for the diagnosis and treatment of language impairments. At UGENT students are familiarized with advanced topics in statistics and psycholinguistics, including bilingualism, dyslexia, and eye tracking. Finally, at UEF, the main focus is on speech technology and programming with Python, including both fundamental theory and methods, as well as their application to the assessment of, and adaptive solutions for, speech impairments. In addition, we have the support of **23 associated partners**, of which 11 are in the academic sector, 5 in R&D/neurotechnology, and 7 in the clinical sector - for further details, see [this overview](/partners).
 
@@ -32,9 +32,9 @@ All EMCL++ courses are recognized by each of the partners and there is a **joint
 - Mobility across three academic European partners (i.e. The Netherlands, Belgium and Finland)
 - Mandatory internship at one of the associated partners and a master’s thesis 
 - Preparation for future positions in academia and/or industry
-- Possibility to obtain a scholarship or to apply as a self-funder – [here](/admission) 
+- Possibility to apply as a self-funder – [here](/admission) 
 - Strong network and great sense of community!
-- Consortium agreement - [here](/files/CA.pdf)
+- Consortium agreement - [here](/files/CA-new.pdf)
 - For more information, please contact: [emcl@rug.nl](mailto:emcl@rug.nl)
 
 
