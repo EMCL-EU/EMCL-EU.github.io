@@ -11,6 +11,9 @@ template = "students.html"
 
 <div class="container">
 
+<span style="color:red">**Attention: Starting 2025-2027, the course schedule will be different. Students will start in Finland, then move to Belgium and finally (third term) to the Netherlands. The courses are likely to deviate from below, but should still show a large overlap. Courses mentioned in term 3 will now be provided in term 1 (and vice versa).**</span>
+
+
 Below you can find a list of the courses offered per term. <br>
 For a more detailed description of the courses, please have a look at [this document](/files/course_descriptions.pdf).
 

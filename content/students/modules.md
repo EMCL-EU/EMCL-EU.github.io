@@ -11,6 +11,8 @@ template = "students.html"
 
 <div class="container">
 
+<span style="color:red">**Attention: Starting 2025-2027, the modules will be slightly different. Students will start their studies in Finland, then move to Belgium and finally (third term) to the Netherlands. There will be slight changes to the modules, but most importantly, courses scheduled "RUG/term 1" will be "RUG/term 3" and courses scheduled "UEF/term 3" will be "UEF/term 1".**</span>
+
 <div id="accordion">
 
 All modules of the EMCL++ program are graded with ECTS. A student has to obtain at least 120 ECTS, 30 ECTS in each term, including internship and thesis. The program is divided into 8 modules: 

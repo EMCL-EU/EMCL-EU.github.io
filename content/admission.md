@@ -72,25 +72,25 @@ Applications need to be submitted no later than December 1, 2024.
 
 You can apply for the programme starting October 15, 2024 and we recommend to submit your application well before the deadline, so that the Admissions Office can verify whether your application contains all the required documents.
 
-## Tuition fee
+## Consortium fee
 <!--Each year, a certain number of scholarships are available through the Erasmus+ programme of the European Union. More information on the scholarship amounts can be found in [this document](/files/scholarships.pdf). 
 Additionally, a limited number of students can be admitted as self-payers.-->
 
-For the 2025-2027 cohort, the following tuition fees apply:
+For the 2025-2027 cohort, the following consortium fees apply:
 
 **Programme country students**
 
-These are students who hold a passport from one of the European Union or EEA countries. They pay a tuition fee of **€9,000** for the entire programme.
+These are students who hold a passport from one of the European Union or EEA countries. They pay a consortium fee of **€9,000** for the entire programme.
 
 **Partner country students**
 
-These are students who do not hold a passport from one of the European Union or EEA countries. They pay a tuition fee of **€18,000** for the entire programme. 
+These are students who do not hold a passport from one of the European Union or EEA countries. They pay a consortium fee of **€18,000** for the entire programme. 
 
-NOTE: In both cases, the tuition fee covers: registration costs at each of the consortium partners, university administration and diploma costs, insurance, excursions, lab costs and participation in one edition of the Science of Aphasia conference (including accommodation).
+NOTE: In both cases, the consortium fee covers: registration costs at each of the consortium partners, university administration and diploma costs, insurance, excursions, lab costs and participation in one edition of the Science of Aphasia conference (including accommodation).
 
-Required literature, accommodation, travel costs and other study related costs are NOT included in the above-mentioned tuition fee. 
+Required literature, accommodation, travel costs and other study related costs are NOT included in the above-mentioned consortium fee. 
 
-The tuition fee will be paid in two installments to the consortium coordinator (RUG).
+The consortium fee will be paid in two installments to the consortium coordinator (RUG).
 
 <!--**Scholarships for target countries**
 

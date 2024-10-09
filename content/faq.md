@@ -73,8 +73,13 @@ Please contact the admissions office via: <A HREF="mailto:admissionsoffice@rug.n
 <div id="accordion_prog">
 
 {% accordionItem(id="start", question="When does the EMCL programme start?", cardH ="start date", ext=true) %}
-The programme starts on September 1, 2024.
+The programme starts on September 1, 2025.
 {% end %}
+
+{% accordionItem(id="start", question="Which semester is offered by which partner/where?", cardH ="where", ext=true) %}
+Starting with the cohort 2025-2027, the first semester will be spent at UEF (Finland), the second semester at UGENT (Belgium) and the third semester at RUG (the Netherlands). The location of the final semester depends on the internship and thesis and could be at either of the partner's institutions or at a different location (external partner).
+{% end %}
+
 </div>
 
 </div>
