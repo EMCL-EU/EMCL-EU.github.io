@@ -11,28 +11,26 @@ template = "students.html"
 
 <div class="container">
 
-<span style="color:red">**Attention: Starting 2025-2027, the course schedule will be different. Students will start in Finland, then move to Belgium and finally (third term) to the Netherlands. The courses are likely to deviate from below, but should still show a large overlap. Courses mentioned in term 3 will now be provided in term 1 (and vice versa).**</span>
+<span style="color:red">**Attention: Starting 2025-2027, the modules will be slightly different. Students will start their studies on September 1, 2025 in Finland, then move to Belgium (February 2026) and finally (third term, September 2026) to the Netherlands. There will be slight changes to the modules and courses.**</span>
 
 
 Below you can find a list of the courses offered per term. <br>
-For a more detailed description of the courses, please have a look at [this document](/files/course_descriptions.pdf).
+<!--For a more detailed description of the courses, please have a look at [this document](/files/course_descriptions.pdf).-->
 
-## Start-up classes: University of Groningen (The Netherlands)
-- Statistics and methods (0 ECTS, module 1) 
-- Introduction to clinical linguistics (0 ECTS, module 1)
-- Introduction to theoretical linguistics (0 ECTS, module 1)
-- Ethics and resilience (0 ECTS, module 1)
+## Start-up classes: University of Eastern Finland (Joensuu, Finland)
+- tbd
 
-## 1st term: University of Groningen (The Netherlands)
-- Language and Culture (Dutch) (3 ECTS, module 2)
-- Language and speech disorders in adults (5 ECTS, module 4)
-- Language and speech disorders in children (5 ECTS, module 4)
-- Language testing in awake brain surgery (6 ECTS, module 4)
-- Neuroimaging and Language (5 ECTS, module 5)
-- Development of serious games, apps and virtual reality for language impaired populations (6 ECTS, module 5)
+
+## 1st term: University of Eastern Finland (Joensuu, Finland)
+- Language and Culture (Finnish) (3 ECTS, module 2)
+- Speech technology for speech impairment research (4 ECTS, module 3)
+- Python programming for linguistic research (3 ECTS, module 3)
+- Language and autism (2 ECTS, module 4)
+- Articulatory, acoustic and perceptual analysis of speech motor disorders (4 ECTS, module 4)
+- Academic writing (Thesis preparation) (4 ECTS, module 7)
+
 
 ## 2nd term: University of Ghent (Belgium)
-- Language and Culture (Dutch) (3 ECTS, module 2)
 - Statistics and Research Methods in Psycholinguistics (9 ECTS, module 3)
 - Bilingualism (4 ECTS, module 4)
 - Dyslexia (4 ECTS, module 4)
@@ -40,14 +38,13 @@ For a more detailed description of the courses, please have a look at [this docu
 - Computational models in psycholinguistics (4 ECTS, module 4)
 - Eye-tracking in language research (3 ECTS, module 5)
 
-## 3rd term: University of Eastern Finland (Finland)
-- Language and Culture (Finnish) (3 ECTS, module 2)
-- Speech technology for speech impairment research (4 ECTS, module 3)
-- Python programming for linguistic research (3 ECTS, module 3)
-- Language and autism (2 ECTS, module 4)
-- Articulatory, acoustic and perceptual analysis of speech motor disorders (4 ECTS, module 4)
-- Internship (10 ECTS, module 6)
-- Academic writing (Thesis preparation) (4 ECTS, module 7)
+## 3rd term: University of Groningen (the Netherlands)
+- Language and speech disorders in adults (5 ECTS, module 4)
+- Language and speech disorders in children (5 ECTS, module 4)
+- Language testing in awake brain surgery (5 ECTS, module 4)
+- Neuroimaging and Language (5 ECTS, module 5)
+- Apps and Games in Clinical Linguistics (5 ECTS, module 5)
+- Internship (12 weeks, module 6)
 
 ## 4th term: Various locations
 - Thesis (30 ECTS, module 7)

@@ -11,7 +11,7 @@ template = "students.html"
 
 <div class="container">
 
-<span style="color:red">**Attention: Starting 2025-2027, the modules will be slightly different. Students will start their studies in Finland, then move to Belgium and finally (third term) to the Netherlands. There will be slight changes to the modules, but most importantly, courses scheduled "RUG/term 1" will be "RUG/term 3" and courses scheduled "UEF/term 3" will be "UEF/term 1".**</span>
+<span style="color:red">**Attention: Starting 2025-2027, the modules will be slightly different. Students will start their studies on September 1, 2025 in Finland, then move to Belgium (February 2026) and finally (third term, September 2026) to the Netherlands. There will be slight changes to the modules, but most importantly, courses scheduled "RUG/term 1" will be "RUG/term 3" and courses scheduled "UEF/term 3" will be "UEF/term 1".**</span>
 
 <div id="accordion">
 
