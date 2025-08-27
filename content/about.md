@@ -1,27 +1,27 @@
 +++
-title = "About EMCL++"
+title = "About EMCL-25"
 template = "page.html"
 +++
 
 {{ menu (act="about") }} 
 
 
-{% top_image (title="About EMCL++", credit="UG, photographer: Michiel de Groot") %}
+{% top_image (title="About EMCL-25", credit="UG, photographer: Michiel de Groot") %}
 	harmo-Michel-de-Groot.jpg
 {% end %}
 
 <div class="container">
     <!-- Example row of columns --> 
 
-# What is the EMCL++
+# What is the EMCL-25
 
-EMCL++ is the successor of three Erasmus Mundus Joint Master Degree (EMJMD) editions spanning over twenty years of work in line with the objectives of attracting, selecting and funding excellent students. The programme was conceived in 1997 by **Prof. Dr. Roelien Bastiaanse** and **Prof. Dr. Ria de Bleser**, and the first students started in 1999. Thereafter, it obtained Erasmus Mundus labels in 2004, 2009, 2016 and 2020 – the last label grants the programme with continuity until 2026.
+EMCL-25 is the successor of four Erasmus Mundus Joint Master Degree (EMJMD) editions spanning over twentyfive years of work in line with the objectives of attracting, selecting and funding excellent students. The programme was conceived in 1997 by **Prof. Dr. Roelien Bastiaanse** and **Prof. Dr. Ria de Bleser**, and the first students started in 1999. Thereafter, it obtained Erasmus Mundus labels in 2004, 2009, 2016 and 2020 – the last label grants the programme with continuity until 2026.
 
-EMCL++ is organized as a consortium of three academic partners: **University of Eastern Finland (UEF)**, **University Ghent (UGENT)**, and **University of Groningen (RUG)**. At UEF, the main focus is on speech technology and programming with Python, including both fundamental theory and methods, as well as their application to the assessment of, and adaptive solutions for, speech impairments. At UGENT students are familiarized with advanced topics in statistics and psycholinguistics, including bilingualism, dyslexia, and eye tracking. Finally, at the RUG the emphasis is on crosslinguistic studies of language-impaired children and adults, language testing in neurosurgical settings, and the usage of neurotechnology and IT for the diagnosis and treatment of language impairments. In addition, we have the support of **23 associated partners**, of which 11 are in the academic sector, 5 in R&D/neurotechnology, and 7 in the clinical sector - for further details, see [this overview](/partners).
+EMCL-25 is organized as a consortium of three academic partners: **University of Eastern Finland (UEF)**, **University Ghent (UGENT)**, and **University of Groningen (RUG)**. At UEF, the main focus is on speech technology and programming with Python, including both fundamental theory and methods, as well as their application to the assessment of, and adaptive solutions for, speech impairments. At UGENT students are familiarized with advanced topics in statistics and psycholinguistics, including bilingualism, dyslexia, and eye tracking. Finally, at the RUG the emphasis is on crosslinguistic studies of language-impaired children and adults, language testing in neurosurgical settings, and the usage of neurotechnology and IT for the diagnosis and treatment of language impairments. In addition, we have the support of **23 associated partners**, of which 11 are in the academic sector, 5 in R&D/neurotechnology, and 7 in the clinical sector - for further details, see [this overview](/partners).
 
 In every cohort, we welcome circa **twenty students** from all over the world. These students hold a degree in **Linguistics, Psychology, Cognitive/Biomedical Sciences, Special Education, Speech and Language Therapy or related disciplines.** Over two years, our students receive training at each of the academic partners, do a compulsory internship at one of the associated partners, and write an original master’s thesis. Thereafter, 70% of our students **continue to do research in PhD programmes**. Furthermore, since 2017, we are seeing an increase in alumni who pursue **R&D and clinical work**, making our programme competitive in the international market.
 
-All EMCL++ courses are recognized by each of the partners and there is a **joint grading system**, whereby the institutions recognize each other’s credits. A joint **Master of Science (MSc.) degree** for the programme has been implemented in 2012. For the new EMCL++ programme (2021-2026), which includes UGENT instead of the University of Potsdam, we will also award all successful students a joint degree. 
+All EMCL-25 courses are recognized by each of the partners and there is a **joint grading system**, whereby the institutions recognize each other’s credits. A joint **Master of Science (MSc.) degree** for the programme has been implemented in 2012. For the new EMCL-25 programme <!--(2026-2031)-->, we will also award all successful students a joint degree. 
 
 
 ## Key information

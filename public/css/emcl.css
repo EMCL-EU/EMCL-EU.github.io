@@ -48,6 +48,16 @@ body {
   margin-bottom: 210px; /* Margin bottom by footer height */
 }
 
+
+.video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40%;
+  width: auto;
+  height: auto;
+}
+
 .container {
   width: auto;
   max-width: 1024px;

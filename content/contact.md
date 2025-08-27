@@ -11,7 +11,7 @@ template = "page.html"
 
 <div class="container">
 
-## For further information on the EMCL++ Programme
+## For further information on the EMCL-25 Programme
 
 **The co-ordinating institution:**\
 University of Groningen, Faculty of Arts \

@@ -13,7 +13,7 @@ template = "page.html"
 <div class="container">
  
 # Disclaimer
-The EMCL++ consortium is responsible for the content of this website.
+The EMCL-25 consortium is responsible for the content of this website.
 Neither the Education, Audiovisual and Culture Executive Agency nor the European Commission are responsible for any use that may be made of the information the site contains.
 
 # Accordance with personal data regulations

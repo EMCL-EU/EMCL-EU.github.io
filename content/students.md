@@ -20,7 +20,7 @@ You can find relevant information for prospective, current and previous students
 - [Courses](/students/courses)
 - [Alumni](/students/alumni)
 
-More general information can be found in the [UG student handbook](https://www.rug.nl/cf/pdfs/cf-international-student-guide-2023.pdf). For the upcoming EMCL++ programme, please check the [course overview](/students/courses).
+More general information can be found in the [UG student handbook](https://www.rug.nl/cf/pdfs/cf-international-student-guide-2023.pdf). For the upcoming EMCL-25 programme, please check the [course overview](/students/courses).
 
 
 </div>
