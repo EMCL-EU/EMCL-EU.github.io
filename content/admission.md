@@ -29,13 +29,13 @@ Candidates should have at least three years of higher education (BA, BSc or equi
 In addition, candidates must have a high proficiency in English (see below), as the programme is taught in English.
 
 ## Required documents
-- Completed **application form** <!--[(.doc template)](/files/application2025-new.doc)-->
+- Completed **application form** [(.doc template)](/files/application2026.doc)
 - **Letter of motivation** for applying to the EMCL-25 programme
 - Copies of your **academic curriculum** (official transcripts) and a copy of your **university degree certificate**, plus authorised translations if these are not in English, Dutch, German or Finnish (check the [guidelines of the admission office](https://www.rug.nl/education/bachelor/international-students/admission-and-application/application-admission-procedure/application-and-admission-procedure/certified-copies?lang=en))
 - **Curriculum vitae** in [EuroPass](http://europass.cedefop.europa.eu/) format, with your photo on the first page. Follow [this link](https://europass.cedefop.europa.eu/editors/en/cv/compose) to start composing your CV 
 - Copy of your **passport** or official ID card
 - Language test results or other **proof of required English skills** (see below)
-- **Two letters of recommendation:** on letterhead <!--, to be submitted separately (see below, "Application process")-->
+- **Names and email addresses of two referees** who will be asked to answer some questions in our portal <!--, to be submitted separately (see below, "Application process")-->
 
 ### Proof of necessary English skills {#english}
 **Please note that only native speakers (UK, Ireland, Australia, New-Zealand, Canada, USA) do not need to hand in such proof.**
@@ -64,14 +64,14 @@ Make sure that this request consists of the following items:
 
 <!--*In case you do not want to be considered for a scholarship, but apply solely as a self-payer, please contact [emcl@rug.nl](mailto:emcl@rug.nl) for the procedure.*-->
 
-<!--
 ### Application form
-The application form is available in DOC (Microsoft Word) format [here](/files/application2025-new.doc).
+The application form is available in DOC (Microsoft Word) format [here](/files/application2026.doc).
 
 ### Deadline
-Applications need to be submitted no later than December 15, 2024. 
+Applications need to be submitted no later than December 15, 2025. 
 
-You can apply for the programme starting with the Studielink registration October 15, 2024. We recommend to submit your application with the additional documents as soon as the link becomes available, so that the EMCL office can verify whether your application contains all the required documents.
+You can apply for the programme starting October 20, 2025. 
+<!--We recommend to submit your application with the additional documents as soon as the link becomes available, so that the EMCL office can verify whether your application contains all the required documents.
 
 ## Consortium fee -->
 <!--Each year, a certain number of scholarships are available through the Erasmus+ programme of the European Union. More information on the scholarship amounts can be found in [this document](/files/scholarships.pdf). 
