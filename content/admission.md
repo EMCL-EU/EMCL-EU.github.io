@@ -31,11 +31,13 @@ In addition, candidates must have a high proficiency in English (see below), as 
 ## Required documents
 - Completed **application form** [(.doc template)](/files/application2026.doc)
 - **Letter of motivation** for applying to the EMCL-25 programme
-- Copies of your **academic curriculum** (official transcripts) and a copy of your **university degree certificate**, plus authorised translations if these are not in English, Dutch, German or Finnish (check the [guidelines of the admission office](https://www.rug.nl/education/bachelor/international-students/admission-and-application/application-admission-procedure/application-and-admission-procedure/certified-copies?lang=en))
+- Copies of your **academic curriculum** (official transcripts) and a copy of your **university degree certificate**, plus translations if these are not in English, Dutch, German or Finnish (check the [guidelines of the admission office](https://www.rug.nl/education/bachelor/international-students/admission-and-application/application-admission-procedure/application-and-admission-procedure/certified-copies?lang=en)). We accept translations of diploma's and transcripts of records made by the student themselves. You can do this with GoogleTranslate, for example. Authorized translations are no longer required for certified documents. 
 - **Curriculum vitae** in [EuroPass](http://europass.cedefop.europa.eu/) format, with your photo on the first page. Follow [this link](https://europass.cedefop.europa.eu/editors/en/cv/compose) to start composing your CV 
 - Copy of your **passport** or official ID card
 - Language test results or other **proof of required English skills** (see below)
 - **Names and email addresses of two referees** who will be asked to answer some questions in our portal <!--, to be submitted separately (see below, "Application process")-->
+
+Please note that all documents need to be submitted through the portal at the same time. It is not possible to add missing documents at a later stage.
 
 ### Proof of necessary English skills {#english}
 **Please note that only native speakers (UK, Ireland, Australia, New-Zealand, Canada, USA) do not need to hand in such proof.**
@@ -44,7 +46,7 @@ In addition, candidates must have a high proficiency in English (see below), as 
 - or **IELTS** of at least 7.0 (each part needs to be at least 6.0)
 - or **Cambridge C1 Advanced or C2 Proficiency Certificate** 
 
-The proof of English skills may **not be older than 2 years**.
+The proof of English skills may **not be older than 2 years** and it needs to be handed in together with the other documents. It is **NOT possible** to submit it later than the deadline of December 15, 2025.
 
 ## Application process for admission
 First you need to register in Studielink: [https://www.studielink.nl/account/aanvragen/personalia](https://www.studielink.nl/account/aanvragen/personalia), then in our online application portal (link tba). All documents will need to be uploaded in this portal. More information on scholarships, the application process and deadlines will be available soon! Please check back regularly! <!--You will receive login details for the Online Application System via e-mail after you have applied in Studielink. Look for an e-mail titled: *"University of Groningen - Complete your application"*. Please make sure you complete all the steps in Progress until your application has the status *"Submitted"*.-->

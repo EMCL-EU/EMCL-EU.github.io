@@ -41,13 +41,13 @@ There is a confusing message in the application system. The instructions in Prog
 This is what needs to be done: ask your referees to send their letters to <A HREF="mailto:emcl@rug.nl">emcl@rug.nl</A>. As soon as we received them, we will notify the admissions office to tick the necessary box in Progress
 {% end %}-->
 
-{% accordionItem(id="three", question="When will I receive the payment link for the application fee?", cardH ="paymentLink", ext=false) %}
+<!--{% accordionItem(id="three", question="When will I receive the payment link for the application fee?", cardH ="paymentLink", ext=false) %}
 You will receive the link for payment from our admissions office after you submitted all the documents in Progress. <br><br>
 If it takes too long, please contact the admissions office: <A HREF="mailto:admissionsoffice@rug.nl">admissionsoffice@rug.nl</A>
-{% end %}
+{% end %}-->
 
 {% accordionItem(id="four", question="I have not received my diploma yet/I will finish my BA in 2026. Is that a problem?", cardH ="noDiploma", ext=false) %}
-Not a problem at all. You need to send us (so upload it in the progress portal) a transcript of records plus a statement of your university that you will finish your studies before the 1st of September 2026.
+Not a problem at all. You need to send us (so upload it in the application portal) a transcript of records plus a statement of your university that you will finish your studies before the 1st of September 2026.
 {% end %}
 
 {% accordionItem(id="five", question="What are the requirements for the motivation letter?", cardH ="motivationLetter", ext=false)%}
@@ -60,9 +60,9 @@ Yes and no. Please act as follows: <br><br>
 Even though your referees send their academic letter of recommendation directly to <A HREF="mailto:emcl@rug.nl">emcl@rug.nl</A>, you still need to upload a pdf document in Progress, containing either both letters or a blank pdf document, otherwise your application will remain 'incomplete'.
 {% end %}-->
 
-{% accordionItem(id="six", question="I am encountering issues in the Progress Portal or I need to change a document I already uploaded.", cardH ="changeProgress", ext=false)%}
+<!--{% accordionItem(id="six", question="I am encountering issues in the Progress Portal or I need to change a document I already uploaded.", cardH ="changeProgress", ext=false)%}
 Please contact the admissions office via: <A HREF="mailto:admissionsoffice@rug.nl">admissionsoffice@rug.nl</A>
-{% end %}
+{% end %}-->
 
 
 </div>
