@@ -15,7 +15,7 @@ groningen2.jpg
 <p style="color:red;"><b> -- Application will open October 20, 2025 --</b></p>
 <!--<p style="color:red;"><b>-- Join our Master Event in the week of 20-24 March for more information about the  EMCL --</b> </p>-->
 
-Check our [FAQs](/faq) if you have questions about the application or admission process. 
+Check our [FAQs](/faq) if you have questions about the application or admission process. For information on fees and scholarships please check our dedicated [page](/fees)!
 
 ## Required qualifications
 Candidates should have at least three years of higher education (BA, BSc or equivalent) with an emphasis on one or more of the following:
@@ -49,7 +49,7 @@ Please note that all documents need to be submitted through the portal at the sa
 The proof of English skills may **not be older than 2 years** and it needs to be handed in together with the other documents. It is **NOT possible** to submit it later than the deadline of December 15, 2025.
 
 ## Application process for admission
-First you need to register in Studielink: [https://www.studielink.nl/account/aanvragen/personalia](https://www.studielink.nl/account/aanvragen/personalia), then in our online application portal (link tba). All documents will need to be uploaded in this portal. More information on scholarships, the application process and deadlines will be available soon! Please check back regularly! <!--You will receive login details for the Online Application System via e-mail after you have applied in Studielink. Look for an e-mail titled: *"University of Groningen - Complete your application"*. Please make sure you complete all the steps in Progress until your application has the status *"Submitted"*.-->
+First you need to register in [Studielink](https://www.studielink.nl/account/aanvragen/personalia), then in our online [application portal](https://www.formdesk.com/rug/LET-EMCL-portal) (link will be active October 20). All documents will need to be uploaded in this portal. More information on scholarships will be available soon! Please check back regularly! <!--You will receive login details for the Online Application System via e-mail after you have applied in Studielink. Look for an e-mail titled: *"University of Groningen - Complete your application"*. Please make sure you complete all the steps in Progress until your application has the status *"Submitted"*.-->
 
 <!--In addition to submitting the other required documents (see above, ["Required documents"](#required-documents)), you will need to ask your two academic referees to send their reference letter on letterhead to this email address: [emcl@rug.nl](mailto:emcl@rug.nl).
 **Please make sure your referees mention in the subject title the following: your NAME, EMCL and STUDENT NUMBER (which you receive after registration in Studielink). Without this information the EMCL administration is not able to add these letters to your application package.** -->
@@ -75,7 +75,7 @@ Applications need to be submitted no later than December 15, 2025.
 You can apply for the programme starting October 20, 2025. 
 <!--We recommend to submit your application with the additional documents as soon as the link becomes available, so that the EMCL office can verify whether your application contains all the required documents.
 
-## Consortium fee -->
+## Consortium fee & scholarships-->
 <!--Each year, a certain number of scholarships are available through the Erasmus+ programme of the European Union. More information on the scholarship amounts can be found in [this document](/files/scholarships.pdf). 
 Additionally, a limited number of students can be admitted as self-payers.-->
 
