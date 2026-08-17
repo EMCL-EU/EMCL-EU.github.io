@@ -12,8 +12,11 @@ groningen2.jpg
 <div class="container">
 
 # Student admission
-<p style="color:red;"><b> -- Application will open October 20, 2025 --</b></p>
-<!--<p style="color:red;"><b>-- Join our Master Event in the week of 20-24 March for more information about the  EMCL --</b> </p>-->
+<!--<p style="color:red;"><b> -- Application open until December 15, 2025 - Referee evaluation due no later than December 18, 2025. --</b></p>
+<p style="color:red;"><b>-- Join our Master Event in the week of 20-24 March for more information about the  EMCL --</b> </p>-->
+
+<p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;">The application portal for the intake 2027-2029 opens on October 1 and closes on December 1, 2026 </p>
+
 
 Check our [FAQs](/faq) if you have questions about the application or admission process. For information on fees and scholarships please check our dedicated [page](/fees)!
 
@@ -21,7 +24,7 @@ Check our [FAQs](/faq) if you have questions about the application or admission 
 Candidates should have at least three years of higher education (BA, BSc or equivalent) with an emphasis on one or more of the following:
 
 - Speech and language pathology
-- Linguistics
+- Linguistics (with at least 60 ECTS of general linguistics courses, such as Syntax, Semantics, Phonetics, Phonology, Morphology, Pragmatics etc., see additional required document below.)
 - Biomedical sciences
 - Psychology
 - Special education
@@ -29,27 +32,36 @@ Candidates should have at least three years of higher education (BA, BSc or equi
 In addition, candidates must have a high proficiency in English (see below), as the programme is taught in English.
 
 ## Required documents
-- Completed **application form** [(.doc template)](/files/application2026.doc)
+- Completed **application form** [(.doc template)](/files/application2027.doc)
 - **Letter of motivation** for applying to the EMCL-25 programme
 - Copies of your **academic curriculum** (official transcripts) and a copy of your **university degree certificate**, plus translations if these are not in English, Dutch, German or Finnish (check the [guidelines of the admission office](https://www.rug.nl/education/bachelor/international-students/admission-and-application/application-admission-procedure/application-and-admission-procedure/certified-copies?lang=en)). We accept translations of diploma's and transcripts of records made by the student themselves. You can do this with GoogleTranslate, for example. Authorized translations are no longer required for certified documents. 
 - **Curriculum vitae** in [EuroPass](http://europass.cedefop.europa.eu/) format, with your photo on the first page. Follow [this link](https://europass.cedefop.europa.eu/editors/en/cv/compose) to start composing your CV 
 - Copy of your **passport** or official ID card
 - Language test results or other **proof of required English skills** (see below)
-- **Names and email addresses of two referees** who will be asked to answer some questions in our portal <!--, to be submitted separately (see below, "Application process")-->
+- **Names and email addresses of two referees** who will be asked to answer some questions in our portal. Note! Only referees of those students who are eligible and selected by the selection board will be contacted. <!--, to be submitted separately (see below, "Application process")-->
+- Students with a background in Linguistics: If you finished (or are you going to finish) a Bachelor's or Master's in Linguistics, you need to hand in a pdf with a transcript of records, including at least 60 ECTS of (General) Linguistics courses such as Syntax, Semantics, Phonetics, Phonology, Morphology, Pragmatics, etc.
 
 Please note that all documents need to be submitted through the portal at the same time. It is not possible to add missing documents at a later stage.
 
 ### Proof of necessary English skills {#english}
 **Please note that only native speakers (UK, Ireland, Australia, New-Zealand, Canada, USA) do not need to hand in such proof.**
 
-- **TOEFL:** minimum of 600 (paper), 250 (computer) or 100 points (internet)
-- or **IELTS** of at least 7.0 (each part needs to be at least 6.0)
-- or **Cambridge C1 Advanced or C2 Proficiency Certificate** 
+**We do not accept a statement such as a MOI or EMI.** 
+Only the following tests are accepted:
 
-The proof of English skills may **not be older than 2 years** and it needs to be handed in together with the other documents. It is **NOT possible** to submit it later than the deadline of December 15, 2025.
+- **IELTS (Academic)**: overall score minimally 7.0, each sub-score minimally 6.0
+- **TOEFL iBT**: overall score minimally 5/6, each sub-score minimally 4
+- **TOEFL iBT**: overall score minimally 100, each sub-score minimally 21
+- **Pearson Academic**: overall score minimally 71, each sub-score minimally 62
+- **LanguageCert Academic**: overall score minimally 75, each sub-score minimally 65
+- **Cambridge C1 Advanced or C2 Proficiency Certificate** 
+
+ The IELTS home edition is also accepted, only for refugees or when the test centers are closed due to conflict, war or natural disasters.
+
+The proof of English skills may **not be older than 2 years** and it needs to be handed in together with the other documents. It is **NOT possible** to submit it later than the deadline of December 1, 2026.
 
 ## Application process for admission
-First you need to register in [Studielink](https://www.studielink.nl/account/aanvragen/personalia), then in our online [application portal](https://www.formdesk.com/rug/LET-EMCL-portal) (link will be active October 20). All documents will need to be uploaded in this portal. More information on scholarships will be available soon! Please check back regularly! <!--You will receive login details for the Online Application System via e-mail after you have applied in Studielink. Look for an e-mail titled: *"University of Groningen - Complete your application"*. Please make sure you complete all the steps in Progress until your application has the status *"Submitted"*.-->
+Register in our online [application portal](https://www.formdesk.com/rug/LET-EMCL-portal) (link is active from October 1 - December 1, 2026). All documents will need to be uploaded in this portal. More information on scholarships can be found [here](/fees). <!--You will receive login details for the Online Application System via e-mail after you have applied in Studielink. Look for an e-mail titled: *"University of Groningen - Complete your application"*. Please make sure you complete all the steps in Progress until your application has the status *"Submitted"*.-->
 
 <!--In addition to submitting the other required documents (see above, ["Required documents"](#required-documents)), you will need to ask your two academic referees to send their reference letter on letterhead to this email address: [emcl@rug.nl](mailto:emcl@rug.nl).
 **Please make sure your referees mention in the subject title the following: your NAME, EMCL and STUDENT NUMBER (which you receive after registration in Studielink). Without this information the EMCL administration is not able to add these letters to your application package.** -->
@@ -67,15 +79,26 @@ Make sure that this request consists of the following items:
 <!--*In case you do not want to be considered for a scholarship, but apply solely as a self-payer, please contact [emcl@rug.nl](mailto:emcl@rug.nl) for the procedure.*-->
 
 ### Application form
-The application form is available in DOC (Microsoft Word) format [here](/files/application2026.doc).
+The application form is available in DOC (Microsoft Word) format [here](/files/application2027.doc).
 
 ### Deadline
-Applications need to be submitted no later than December 15, 2025. 
+Applications need to be submitted no later than December 1, 2026. 
 
-You can apply for the programme starting October 20, 2025. 
-<!--We recommend to submit your application with the additional documents as soon as the link becomes available, so that the EMCL office can verify whether your application contains all the required documents.
+You can apply for the programme starting October 1, 2026. 
+<!--We recommend to submit your application with the additional documents as soon as the link becomes available, so that the EMCL office can verify whether your application contains all the required documents.-->
 
-## Consortium fee & scholarships-->
+## Important Notice for Applicants from Pakistan
+
+We warmly welcome applications from talented students in Pakistan. Please be aware that Finland does not currently process residence permits within Pakistan. If accepted, you will need to travel to a designated third country (such as the Qatar or UAE) to complete your mandatory biometric appointment. 
+
+Because this requires additional travel visas, expenses, and early planning, we highly encourage you to review the logistics and financial requirements on the [Finnish Immigration Service](https://migri.fi/en/studying-in-finland) website as soon as you apply.
+
+## For all other applicants from Non-EU countries
+
+Also other non-European applicants should be aware that it is not always possible to process residence permits for Finland (which is necessary for your enrolment) through your own country. In such cases you might also require additional travel visas, expenses, and early planning, so for all non-EU applicants we highly encourage you to review the logistics and financial requirements on the [Finnish Immigration Service](https://migri.fi/en/studying-in-finland) website as soon as you apply.
+
+
+<!--## Consortium fee & scholarships-->
 <!--Each year, a certain number of scholarships are available through the Erasmus+ programme of the European Union. More information on the scholarship amounts can be found in [this document](/files/scholarships.pdf). 
 Additionally, a limited number of students can be admitted as self-payers.-->
 

@@ -35,8 +35,7 @@ Please note that:
 -  Students benefiting from an EMJM scholarship cannot benefit from another EU grant while pursuing their EMCL EMJM studies;
 -  EMJM EMCL scholarships are awarded based on the ranking of students during the application and selection procedure;
 -  On the EMCL application form, you can indicate whether you would like to be considered for an EMCL scholarship (please note the deadline for scholarship applications is December 15);
--  Upon the completion of the selection procedure by the EMCL Selection Board, each applicant will be informed as soon as possible about whether a place in the EMCL programme/the programme and  the EMJM ReD Global scholarship.
-   Applicants will be informed from mid-February;
+-  Upon the completion of the selection procedure by the EMCL Selection Board, each applicant will be informed (from mid-February) about whether s/he/they is/are offered a place in the EMCL programme with or without a scholarship;
 -  In case of withdrawal of a student who has been offered a place – and, if applicable, a scholarship – the next student in the ranking receives the offer;
 -  Several scholarships are specifically allocated to students from selected countries. If you are an applicant from one of the following countries (https://erasmus-plus.ec.europa.eu/programme-guide/part-a/eligible-countries), we highly encourage you to apply!
 
